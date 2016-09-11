@@ -1,9 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about.html"
 ---
-
+# this is my heading
 Some information about you!
 
 ### More Information
